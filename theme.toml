@@ -1,12 +1,12 @@
-name = "Restaurant Hugo"
-license = "CC BY 3.0"
-licenselink = "https://creativecommons.org/licenses/by/3.0/"
-description = "Hugo port of the Themefisher’s restaurant Template"
-homepage = "https://gethugothemes.com/products/restaurant/"
-tags = ['landing-page', 'fast', 'light', 'white', 'modern', 'business', 'agency-template', 'themefisher', 'hugo-theme', 'hugo-templates', 'bootstrap', 'blog', 'responsive', 'clean', 'simple', 'company', 'projects', 'creative', 'contact-form', 'custom-themes', 'mobile', 'minimalistic', 'pages']
-features = ['bootstrap','responsive']
-min_version = "0.62.0"
+name = "GoChowdown"
+license = "MIT"
+licenselink = "https://github.com/seanlane/gochowdown/blob/master/LICENSE.md"
+description = "A recipe theme for Hugo based on the Chowdown Jekyll theme"
+homepage = "https://github.com/seanlane/gochowdown"
+tags = ["recipes", "cooking", "responsive", "clean"]
+features = ["analytics", "favicon"]
+min_version = "0.58"
 
 [author]
-  name = "Themefisher"
-  homepage = "https://themefisher.com/"
+  name = "Sean Lane"
+  homepage = "https://sean.lane.sh"
